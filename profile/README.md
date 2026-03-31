@@ -116,7 +116,7 @@ O **Oficina MPCar** resolve problemas reais enfrentados por oficinas:
 
 - **Gabriel** – Front-end e documentação  
 - **Marcos** – Back-end  
-- **Luis Felipe** – Banco de dados  
+- **Luiz Felipe** – Banco de dados  
 
 ---
 

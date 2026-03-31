@@ -120,12 +120,6 @@ O **Oficina MPCar** resolve problemas reais enfrentados por oficinas:
 
 ---
 
-## 📌 Status
-
-🚧 Em desenvolvimento  
-
----
-
 ## 💼 Visão de Futuro
 
 O **Oficina MPCar** foi idealizado para evoluir para uma plataforma completa de gestão automotiva, conectando oficinas, clientes e fornecedores em um único ecossistema digital.
